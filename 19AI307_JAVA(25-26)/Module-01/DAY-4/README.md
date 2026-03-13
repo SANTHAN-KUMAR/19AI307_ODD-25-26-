@@ -58,7 +58,7 @@ public class MaxOddNumber {
 
 
 ## OUTPUT:
-
+![alt text](image.png)
 
 
 ## RESULT:
