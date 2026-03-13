@@ -60,8 +60,9 @@ public class LibraryFine {
 
 
 ## OUTPUT:
-
+![alt text](19AI307_JAVA(25-26)/Module-01/DAY-2/49b1e7f2-8060-4499-92d2-f6788d7f3d57.jpg)
 
 
 ## RESULT:
 The program successfully calculates the library fine based on the number of late days and displays the fine or the membership cancellation message.
+
